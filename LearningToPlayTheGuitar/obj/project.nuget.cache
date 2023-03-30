@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEtQgyLWHtowWxXwk0+3724zXlxxD+xxAfqVpMFioXOANVs73ZlMq/vDNv3mpzQ24kl7gbToRaLsWIbd7E6csA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\307-12\\Documents\\Belskij\\Курсовая\\LearningToPlayTheGuitar\\LearningToPlayTheGuitar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\307-12\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\307-12\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\307-12\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
